@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16749" started-at="2020-02-23T07:25:36Z" finished-at="2020-02-23T07:25:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16749" started-at="2020-02-23T07:25:36Z" finished-at="2020-02-23T07:25:53Z">
+      <class name="tests.HomePageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:tests.HomePageTest@7aecef]" name="initialization" is-config="true" duration-ms="48274" started-at="2020-02-23T07:24:48Z" finished-at="2020-02-23T07:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="init()[pri:0, instance:tests.HomePageTest@7aecef]" name="init" duration-ms="16690" started-at="2020-02-23T07:25:36Z" finished-at="2020-02-23T07:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:tests.HomePageTest@7aecef]" name="TeardownTest" is-config="true" duration-ms="1" started-at="2020-02-23T07:25:53Z" finished-at="2020-02-23T07:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

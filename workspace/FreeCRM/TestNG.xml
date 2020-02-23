@@ -1,0 +1,8 @@
+<suite name="RegressionTest">
+<test name="Demotest">
+<classes>
+<!-- <class name="tests.TestBase"/> -->
+<class name="tests.RegistrationPageTest"/>
+</classes>
+</test>
+</suite>
